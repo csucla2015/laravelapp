@@ -1,3 +1,3 @@
 <?php 
-echo("ere);
+echo("ere");
 ?>
